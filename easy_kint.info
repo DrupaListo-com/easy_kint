@@ -1,0 +1,4 @@
+name = Easy Kint
+description = "Adds kint."
+core = 7.x
+package = Administration

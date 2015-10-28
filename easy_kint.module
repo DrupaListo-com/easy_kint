@@ -1,0 +1,10 @@
+<?php
+
+/**
+ * Implementation of hook_init().
+ */
+function easy_kint_init() {
+    $module_path = drupal_get_path('module', 'easy_kint');
+    require_once( './' . $module_path . '/kint/Kint.class.php');
+}
+
