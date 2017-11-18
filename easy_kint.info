@@ -1,4 +1,4 @@
 name = Easy Kint
-description = "Adds kint."
+description = "Easy install PHP's kint library to drupal 7."
 core = 7.x
 package = Administration
